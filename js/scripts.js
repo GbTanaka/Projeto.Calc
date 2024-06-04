@@ -136,4 +136,3 @@ buttons.forEach((btn) => {
         }
     });
 });
-// gft
